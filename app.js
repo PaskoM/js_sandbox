@@ -59,7 +59,7 @@ function removeTask(e) {
   }
 }
 
-// Clear Tasks
+// Clear All Tasks
 function clearTasks() {
   // taskList.innerHTML = '';
 
