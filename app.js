@@ -71,7 +71,7 @@ function clearTasks() {
   // https://jsperf.com/innerhtml-vs-removechild
 }
 
-// Filter Task
+// Filter Tasks
 function filterTasks(e) {
   const text = e.target.value.toLowerCase();
 
